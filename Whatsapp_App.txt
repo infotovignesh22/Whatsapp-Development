@@ -8,8 +8,6 @@
 
 5  UPI Payment
 
-6 Broadcast channel
-
 7 Story feature added
 
 6.community feauture
